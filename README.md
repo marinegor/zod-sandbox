@@ -27,7 +27,7 @@ Follow these steps to get the Zod Sandbox up and running on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/zod-sandbox.git
+   git clone https://github.com/nereumelo/zod-sandbox.git
    ```
 2. **Navigate to the project directory:**
 
